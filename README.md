@@ -1,16 +1,5 @@
-> **高考志愿**、**考研保研**、**副业赚钱**、**职业规划**、**简历优化**，微信欢迎加入[《猴哥成长营》](https://www.yuque.com/jackpop/ulig5a/srnochggbsa2eltw?singleDoc#)！
-
-<p align="center">
-    <img src="https://s11.ax1x.com/2023/12/23/pi7qxU0.md.jpg" height="400"></img>
-</p>
-
 <h1 align="left">CS-Books-Store</h1>
-<p align="center">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Jackpopc/CS-Books-Store">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/Jackpopc/CS-Books-Store">
-    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Jackpopc/CS-Books-Store">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/Jackpopc/CS-Books-Store">
-</p>
+
 
 
 CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各位同学免费使用，永不收费！
@@ -27,12 +16,7 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 
 <h1 align="left">About</h1>
 
-<p align="center"  font-size="18px">
-  <a href="https://www.zhihu.com/people/sharetechlee/activities">
-知乎：Jackpop</a>   | 
-  <a href="https://space.bilibili.com/353631242/video">B站：资源索引</a>  |       
-  <a href="https://mp.weixin.qq.com/s/hTZAGgkiMS0XPZ9OHQxFJg" rel="nofollow">公众号：平凡而诗意</a>     
-</p>    
+
 
 
 
